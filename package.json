@@ -1,5 +1,5 @@
 {
-  "name": "@webinmove/nyuma",
+  "name": "@auctelia/nyuma",
   "version": "1.3.1",
   "description": "Retry an async function with different strategies",
   "main": "src/index.js",
@@ -17,12 +17,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/webinmove/nyuma.git"
+    "url": "https://github.com/auctelia/nyuma.git"
   },
   "bugs": {
-    "url": "https://github.com/webinmove/nyuma/issues"
+    "url": "https://github.com/auctelia/nyuma/issues"
   },
-  "homepage": "https://github.com/webinmove/nyuma#readme",
+  "homepage": "https://github.com/auctelia/nyuma#readme",
   "keywords": [
     "retry",
     "retries",
